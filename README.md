@@ -7,12 +7,12 @@ Pytorch implementation of [Neural Discrete Representation Learning](https://arxi
 * visdom
 <br><br>
 ## RESULT : MNIST
-![mnist](https://github.com/1Konny/Generative-Models/blob/master/VQ-VAE/sample/mnist.gif)
+![mnist](sample/mnist.gif)
 <br>
 ## RESULT : CIFAR10
 reconstruction of randomly selected, fixed images
 <br>
-![cifar10_fixed](https://github.com/1Konny/Generative-Models/blob/master/VQ-VAE/sample/cifar10_fixed.gif)
+![cifar10_fixed](sample/cifar10_fixed.gif)
 <br>
 reconstruction of random samples
 <br>
