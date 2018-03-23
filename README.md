@@ -24,11 +24,7 @@ python main.py --dataset CIFAR10 --batch_size 100 --k_dim 256 --z_dim 256
 ```
 
 ## To do:
-- [x] model save/load
-- [x] parameter initializaiton
-- [x] image save
 - [ ] visdom -> tensorboardX
 - [ ] learning prior p(z) using PixelCNN
 - [ ] image sampling( dummy input => (PixelCNN) => Z_dec => (Decoder) => image )
-- [ ] refactoring
 - [ ] add references and acknowledgements
